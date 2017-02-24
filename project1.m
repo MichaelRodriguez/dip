@@ -75,5 +75,5 @@ imwrite(image14, 'homework1_14.pnm')
 
 display('Press any key to continue...');
 pause
-delete(findall(0,'Type','figure'))
+close all 
 
